@@ -4,7 +4,6 @@
 
 **I am Kuda Christine** Self Motivated young individual, who finds pleasure in solving problems. I am eager and very excited to learn, grow and create in this tech indusrty. I am a good team player and can work well as an individual too.I absolutely love the career field I am in!
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 > > Final year project (Tutor Me) <br>
