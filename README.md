@@ -7,10 +7,11 @@
 
 - 🔭 I’m currently working on ...
 > > Final year project (Tutor Me) <br>
-> > Applying for Jobs
+> > Building react and react native based projects
+
 
 - 🌱 I’m currently learning ...
-> >  Reactjs <br>
+> >  Reactjs & React native <br>
 > >  Flutter(Dart) <br>
 > >   C# & .Net <br>
 
