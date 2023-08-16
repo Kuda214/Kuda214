@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on ...
 > > Final year project (Tutor Me) <br>
 > > Building react and react native based projects
+> > C#,.Net Core
 
 
 - 🌱 I’m currently learning ...
