@@ -6,15 +6,14 @@
 
 
 - 🔭 I’m currently working on ...
-> > Final year project (Tutor Me) <br>
-> > Building react and react native based projects
-> > C#,.Net Core
+> > website interactive cv
+> > Building .net and C# projects
+> > flutter
 
 
 - 🌱 I’m currently learning ...
-> >  Reactjs & React native <br>
-> >  Flutter(Dart) <br>
-> >   C# & .Net <br>
+> >  php
+
 
 - 👯 I’m looking to collaborate on ... 
 > > Both web and mobile based applications systems
